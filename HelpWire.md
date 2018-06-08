@@ -15,3 +15,5 @@ The remote assistance solution eliminates the need for onsite services which all
 * Cross-platform compatibility
 HelpWire supports multiple operating systems, including Windows, Mac, Linux, and Android. Thanks to this cross-platform connectivity, users can create client/server connections in different combinations.
 Use cases for HelpWire range from diagnosing remote equipment (phones, computers, printers, CNC machines, vehicle ECU, etc.) to providing prompt online support and repair service.
+* Secure messaging channel
+Provide your customers with immediate attention and quick responses via efficient communication channel - HelpWire Chat
